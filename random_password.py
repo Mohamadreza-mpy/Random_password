@@ -1,6 +1,7 @@
 import string
 import random
 from tkinter import *
+# first install pyperclip with "pip install pyperclip"
 import pyperclip as pc
 
 win = Tk()
